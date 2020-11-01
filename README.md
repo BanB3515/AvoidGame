@@ -17,10 +17,9 @@
 
 > ### **스크린샷**
 >
-> - 스크린샷  
->   ![Avoid Game 스크린샷1](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
->   ![Avoid Game 스크린샷2](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
->   ![Avoid Game 스크린샷3](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
+> ![Avoid Game 스크린샷1](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
+> ![Avoid Game 스크린샷2](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
+> ![Avoid Game 스크린샷3](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
 
 ---
 
