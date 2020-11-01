@@ -24,7 +24,7 @@
 
 > ### **개발 정보**
 >
-> - 개발 언어 - [Java 8](https://www.java.com/)
+> - 언어 - [Java 8](https://www.java.com/)
 > - 프레임워크 - [Swing](https://docs.oracle.com/javase/8/docs/api/index.html?javax/swing/package-summary.html)
 
 ---
