@@ -34,4 +34,4 @@
 
 > ### **다운로드**
 >
-> - [jar 파일 다운로드](https://raw.githubusercontent.com/banb3515/AvoidGame/master/Download/AvoidGame.jar)
+> - [jar 파일 다운로드](https://raw.githubusercontent.com/banb3515/AvoidGame/master/Downloads/AvoidGame.jar)
