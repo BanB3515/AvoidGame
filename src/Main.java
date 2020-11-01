@@ -122,7 +122,7 @@ public class Main extends JFrame {
                             timer.setRepeats(true);
                             timer.start();
 
-                            Timer t = new Timer(150, new ActionListener() {
+                            Timer t = new Timer(300, new ActionListener() {
                                 @Override
                                 public void actionPerformed(ActionEvent e) {
                                     JLabel drop = new JLabel(getImageIcon("meteor.png"));
