@@ -17,9 +17,11 @@
 
 > ### **스크린샷**
 >
-> ![Avoid Game 스크린샷1](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
-> ![Avoid Game 스크린샷2](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
-> ![Avoid Game 스크린샷3](https://github.com/banb3515/ToDoList/blob/main/Screenshots/Screenshot.png)
+> ![Avoid Game 스크린샷1](https://raw.githubusercontent.com/banb3515/AvoidGame/master/Screenshots/Screenshot1.png)
+> 
+> ![Avoid Game 스크린샷2](https://raw.githubusercontent.com/banb3515/AvoidGame/master/Screenshots/Screenshot2.png)
+> 
+> ![Avoid Game 스크린샷3](https://raw.githubusercontent.com/banb3515/AvoidGame/master/Screenshots/Screenshot3.png)
 
 ---
 
@@ -32,4 +34,4 @@
 
 > ### **다운로드**
 >
-> - [jar 파일 다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList%2Ftree%2Fmain%2FSetup)
+> - [jar 파일 다운로드](https://raw.githubusercontent.com/banb3515/AvoidGame/master/Download/AvoidGame.jar)
